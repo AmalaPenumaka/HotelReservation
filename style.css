@@ -1,0 +1,22 @@
+body {
+    font-family: 'Arial';
+}
+
+.title {
+  color: red;
+	font-weight: bold;
+	margin: 15px;
+}
+
+.description {
+	margin: 15px;
+}
+
+.form-button {
+	margin: 5px;
+}
+
+.form-control {
+	margin-right: 50px;
+}
+
